@@ -1,0 +1,6 @@
+C:\Users\garci\Desktop\Advance-Windows\Attempt_2 - Copy\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\garci\Desktop\Advance-Windows\Attempt_2 - Copy\obj\Debug\Attempt_2.exe
+C:\Users\garci\Desktop\Advance-Windows\Attempt_2 - Copy\obj\Debug\Attempt_2.pdb
+C:\Users\garci\Desktop\Advance-Windows\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\garci\Desktop\Advance-Windows\Calculator\obj\Debug\Attempt_2.exe
+C:\Users\garci\Desktop\Advance-Windows\Calculator\obj\Debug\Attempt_2.pdb
